@@ -1,13 +1,15 @@
 Name: php
 Cartridge-Short-Name: PHP
-Display-Name: Php
+Display-Name: PHP
+Description: "PHP Openshift Catridge"
 License: MIT
-Version: "5.6.6"
-Versions: [ "5.5.22", "5.6.6" ]
-Website: https://github.com/boekkooi/openshift-cartridge-php
-Cartridge-Version: 0.0.2
-Cartridge-Vendor: boekkooi
+Version: "5.6.13"
+Versions: [ "5.5.29", "5.6.13" ]
+Website: https://github.com/exileed/openshift-cartridge-php
+Cartridge-Version: 0.0.3
+Cartridge-Vendor: exileed
 Categories:
+  - php
   - embedded
   - plugin
 Provides:
